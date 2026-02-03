@@ -1,0 +1,26 @@
+.claude
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+.venv/
+venv/
+*.pyc
+__pycache__/
+
+# Data and logs
+logs/
+data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
